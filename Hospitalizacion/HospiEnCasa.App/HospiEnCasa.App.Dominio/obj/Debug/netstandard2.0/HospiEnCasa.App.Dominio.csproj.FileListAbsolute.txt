@@ -1,0 +1,9 @@
+C:\Users\braya\OneDrive\Escritorio\Curso programacion\Ciclo 3\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Dominio\bin\Debug\netstandard2.0\HospiEnCasa.App.Dominio.deps.json
+C:\Users\braya\OneDrive\Escritorio\Curso programacion\Ciclo 3\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Dominio\bin\Debug\netstandard2.0\HospiEnCasa.App.Dominio.dll
+C:\Users\braya\OneDrive\Escritorio\Curso programacion\Ciclo 3\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Dominio\bin\Debug\netstandard2.0\HospiEnCasa.App.Dominio.pdb
+C:\Users\braya\OneDrive\Escritorio\Curso programacion\Ciclo 3\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\netstandard2.0\HospiEnCasa.App.Dominio.csprojAssemblyReference.cache
+C:\Users\braya\OneDrive\Escritorio\Curso programacion\Ciclo 3\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\netstandard2.0\HospiEnCasa.App.Dominio.AssemblyInfoInputs.cache
+C:\Users\braya\OneDrive\Escritorio\Curso programacion\Ciclo 3\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\netstandard2.0\HospiEnCasa.App.Dominio.AssemblyInfo.cs
+C:\Users\braya\OneDrive\Escritorio\Curso programacion\Ciclo 3\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\netstandard2.0\HospiEnCasa.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\braya\OneDrive\Escritorio\Curso programacion\Ciclo 3\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\netstandard2.0\HospiEnCasa.App.Dominio.dll
+C:\Users\braya\OneDrive\Escritorio\Curso programacion\Ciclo 3\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\netstandard2.0\HospiEnCasa.App.Dominio.pdb

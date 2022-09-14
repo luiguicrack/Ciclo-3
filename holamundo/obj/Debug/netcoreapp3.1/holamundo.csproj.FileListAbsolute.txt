@@ -1,0 +1,13 @@
+C:\Users\braya\OneDrive\Escritorio\Curso programacion\Ciclo 3\holamundo\bin\Debug\netcoreapp3.1\holamundo.exe
+C:\Users\braya\OneDrive\Escritorio\Curso programacion\Ciclo 3\holamundo\bin\Debug\netcoreapp3.1\holamundo.deps.json
+C:\Users\braya\OneDrive\Escritorio\Curso programacion\Ciclo 3\holamundo\bin\Debug\netcoreapp3.1\holamundo.runtimeconfig.json
+C:\Users\braya\OneDrive\Escritorio\Curso programacion\Ciclo 3\holamundo\bin\Debug\netcoreapp3.1\holamundo.runtimeconfig.dev.json
+C:\Users\braya\OneDrive\Escritorio\Curso programacion\Ciclo 3\holamundo\bin\Debug\netcoreapp3.1\holamundo.dll
+C:\Users\braya\OneDrive\Escritorio\Curso programacion\Ciclo 3\holamundo\bin\Debug\netcoreapp3.1\holamundo.pdb
+C:\Users\braya\OneDrive\Escritorio\Curso programacion\Ciclo 3\holamundo\obj\Debug\netcoreapp3.1\holamundo.csprojAssemblyReference.cache
+C:\Users\braya\OneDrive\Escritorio\Curso programacion\Ciclo 3\holamundo\obj\Debug\netcoreapp3.1\holamundo.AssemblyInfoInputs.cache
+C:\Users\braya\OneDrive\Escritorio\Curso programacion\Ciclo 3\holamundo\obj\Debug\netcoreapp3.1\holamundo.AssemblyInfo.cs
+C:\Users\braya\OneDrive\Escritorio\Curso programacion\Ciclo 3\holamundo\obj\Debug\netcoreapp3.1\holamundo.csproj.CoreCompileInputs.cache
+C:\Users\braya\OneDrive\Escritorio\Curso programacion\Ciclo 3\holamundo\obj\Debug\netcoreapp3.1\holamundo.dll
+C:\Users\braya\OneDrive\Escritorio\Curso programacion\Ciclo 3\holamundo\obj\Debug\netcoreapp3.1\holamundo.pdb
+C:\Users\braya\OneDrive\Escritorio\Curso programacion\Ciclo 3\holamundo\obj\Debug\netcoreapp3.1\holamundo.genruntimeconfig.cache

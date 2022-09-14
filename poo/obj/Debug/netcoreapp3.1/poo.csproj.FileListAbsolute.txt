@@ -1,0 +1,13 @@
+C:\Users\braya\OneDrive\Escritorio\Curso programacion\Ciclo 3\poo\bin\Debug\netcoreapp3.1\poo.exe
+C:\Users\braya\OneDrive\Escritorio\Curso programacion\Ciclo 3\poo\bin\Debug\netcoreapp3.1\poo.deps.json
+C:\Users\braya\OneDrive\Escritorio\Curso programacion\Ciclo 3\poo\bin\Debug\netcoreapp3.1\poo.runtimeconfig.json
+C:\Users\braya\OneDrive\Escritorio\Curso programacion\Ciclo 3\poo\bin\Debug\netcoreapp3.1\poo.runtimeconfig.dev.json
+C:\Users\braya\OneDrive\Escritorio\Curso programacion\Ciclo 3\poo\bin\Debug\netcoreapp3.1\poo.dll
+C:\Users\braya\OneDrive\Escritorio\Curso programacion\Ciclo 3\poo\bin\Debug\netcoreapp3.1\poo.pdb
+C:\Users\braya\OneDrive\Escritorio\Curso programacion\Ciclo 3\poo\obj\Debug\netcoreapp3.1\poo.csprojAssemblyReference.cache
+C:\Users\braya\OneDrive\Escritorio\Curso programacion\Ciclo 3\poo\obj\Debug\netcoreapp3.1\poo.AssemblyInfoInputs.cache
+C:\Users\braya\OneDrive\Escritorio\Curso programacion\Ciclo 3\poo\obj\Debug\netcoreapp3.1\poo.AssemblyInfo.cs
+C:\Users\braya\OneDrive\Escritorio\Curso programacion\Ciclo 3\poo\obj\Debug\netcoreapp3.1\poo.csproj.CoreCompileInputs.cache
+C:\Users\braya\OneDrive\Escritorio\Curso programacion\Ciclo 3\poo\obj\Debug\netcoreapp3.1\poo.dll
+C:\Users\braya\OneDrive\Escritorio\Curso programacion\Ciclo 3\poo\obj\Debug\netcoreapp3.1\poo.pdb
+C:\Users\braya\OneDrive\Escritorio\Curso programacion\Ciclo 3\poo\obj\Debug\netcoreapp3.1\poo.genruntimeconfig.cache
